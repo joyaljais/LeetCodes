@@ -1,0 +1,2 @@
+Enter a list and a target value, scan the list to find two values from the list which sum up to the target value and print them in
+another list.
