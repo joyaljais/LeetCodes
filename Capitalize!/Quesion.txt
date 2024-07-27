@@ -1,0 +1,5 @@
+
+Capitalize the first letter of each word {Hackerrank}
+Points to look at:
+1 charachter of a word can be a number
+2 No. of spaces between the words
